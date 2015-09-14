@@ -1,0 +1,2 @@
+[Wed May 27 2015 10:20:09 GMT-0400 (EDT)] Layer "testimonial-photo2.png copy": Expected end of input but "c" found.
+[Wed May 27 2015 10:20:09 GMT-0400 (EDT)] Layer "rect-topnav.png - HEIGHT": Expected end of input but "-" found.
